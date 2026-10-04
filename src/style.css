@@ -9,7 +9,7 @@ p {
 
 p {
   display: block;
-  margin: 0 auto;
+  margin: 0 16px;
 }
 
 .croissant-photo {
