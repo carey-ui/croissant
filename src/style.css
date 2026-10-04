@@ -8,11 +8,20 @@ p {
 }
 
 p {
-  display:block;
+  display: block;
   margin: 0 auto;
+}
 
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
 
 footer {
-  text-align: center; 
+  text-align: center;
+  display: block;
+  margin: 0 10px;
+  color: green;
 }
